@@ -1,10 +1,10 @@
 ![Poster](https://github.com/Swarnimashukla/Hacktoberfest2020/blob/master/Hacktoberfest2020.PNG)
 
-#HACKTOBERFEST 2020 
+# HACKTOBERFEST 2020 
 
-###Let's come together to celebrate open source technologies
+### Let's come together to celebrate open source technologies
 
-##Make 4 pull requests between oct 1- 31 to win exclusive goodies of hacktoberfest
+## Make 4 pull requests between oct 1- 31 to win exclusive goodies of hacktoberfest
 
 Find beginner friendly issues [here](https://github.com/Swarnimashukla/Automatic-attendance-management-system)
 
