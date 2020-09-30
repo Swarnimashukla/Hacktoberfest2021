@@ -8,12 +8,6 @@
 
 Find beginner friendly issues [here](https://github.com/Swarnimashukla/Automatic-attendance-management-system)
 
-### Why this project ?
-
-* To automate traditional attendance marking process
-* To help government officials keep track of education structure
-* To create a better learning environment and improve education system 
-
 # Award Winning idea :✨🏆✨
 ![Dreambig championship](https://github.com/Swarnimashukla/Automatic-attendance-management-system/blob/master/Winner.jpeg)
 
