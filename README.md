@@ -1,4 +1,4 @@
-![Poster](https://github.com/Swarnimashukla/Hacktoberfest2020/blob/master/Hacktoberfest2020.PNG)
+![Poster](https://github.com/Swarnimashukla/Hacktoberfest2020/blob/master/Hacktoberfest.PNG)
 
 # HACKTOBERFEST 2020 
 
