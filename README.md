@@ -1,4 +1,3 @@
-![Poster](https://github.com/Swarnimashukla/Hacktoberfest2020/blob/master/Hacktoberfest.PNG)
 
 # HACKTOBERFEST 2020 
 
@@ -7,6 +6,8 @@
 ## Make 4 pull requests between oct 1- 31 to win exclusive goodies of hacktoberfest
 
 Find beginner friendly issues [here](https://github.com/Swarnimashukla/Automatic-attendance-management-system)
+
+![Poster](https://github.com/Swarnimashukla/Hacktoberfest2020/blob/master/Hacktoberfest.PNG)
 
 # Award Winning idea :✨🏆✨
 ![Dreambig championship](https://github.com/Swarnimashukla/Automatic-attendance-management-system/blob/master/Winner.jpeg)
