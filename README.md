@@ -7,7 +7,7 @@
 
 Find beginner friendly issues [here](https://github.com/Swarnimashukla/Automatic-attendance-management-system)
 
-![Poster](https://github.com/Swarnimashukla/Hacktoberfest2020/blob/master/Hacktoberfest.PNG)
+![Poster](https://github.com/Swarnimashukla/Hacktoberfest2020/blob/master/logo.png)
 
 # Award Winning idea :✨🏆✨
 ![Dreambig championship](https://github.com/Swarnimashukla/Automatic-attendance-management-system/blob/master/Winner.jpeg)
